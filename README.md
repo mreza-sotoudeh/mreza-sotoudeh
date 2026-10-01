@@ -19,6 +19,7 @@ Mechanical Engineering student at Sharif University of Technology interested in 
 ## Areas of Interest
 
 * Robotics and Mechatronics
+* Occupational Biomechanics
 * Control Systems and Dynamic Simulation
 * Mechanical Design and Computational Mechanics
 * Condition Monitoring and Fault Diagnosis
