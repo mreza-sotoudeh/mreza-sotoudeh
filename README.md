@@ -39,11 +39,11 @@ Mechanical Engineering student at Sharif University of Technology interested in 
 ### Digital Readout (DRO) for Milling Machine
 
 Investigated and developed an installation concept for a Digital Readout (DRO) system for a manual milling machine during an industrial internship. Studied magnetic linear encoders, analyzed system specifications and measurement accuracy, performed dimensional measurements, and developed the installation concept using SolidWorks.
-
+[View project repository](https://github.com/mreza-sotoudeh/DRO-installation-for-milling-machine)
 ### FEA of Perforated Cylindrical Filter Screens
 
 Designed and analyzed perforated cylindrical filter screens for a gas scrubber application using SolidWorks and SolidWorks Simulation. Compared two perforation configurations under pressure loading by evaluating von Mises stress and deformation to assess structural integrity.
-
+[View project repository](https://github.com/mreza-sotoudeh/FEA-of-Perforated-Cylindrical-Filter-Screens)
 ### Arduino-Based Embedded Systems
 
 Implemented and simulated three Arduino-based embedded systems using Arduino IDE and Proteus, including a sequential LED controller, a potentiometer-based LED and buzzer controller, and a two-digit seven-segment display with multiplexing and button debouncing. Programs were developed in C/C++.
