@@ -50,30 +50,37 @@ Designed and analyzed perforated cylindrical filter screens for a gas scrubber a
 
 Implemented and simulated three Arduino-based embedded systems using Arduino IDE and Proteus, including a sequential LED controller, a potentiometer-based LED and buzzer controller, and a two-digit seven-segment display with multiplexing and button debouncing. Programs were developed in C/C++.
 
+[View project repository](https://github.com/mreza-sotoudeh/Arduino-Embedded-Systems)
 ### Reciprocating Pump Modeling in Simscape Multibody
 
 Built a multibody model of a reciprocating pump using MATLAB, Simulink, and Simscape Multibody. Modeled the crank, connecting rod, piston, and cylinder, and simulated the mechanism at different operating speeds to investigate kinematic behavior and required torque.
 
+[View project repository](https://github.com/mreza-sotoudeh/reciprocating-pump-dynamics)
 ### Airfoil Flow Analysis Using Physics-Informed Neural Networks
 
 Developed physics-informed neural network (PINN) models in Python for incompressible flow around NACA 6409 and NACA 0024 airfoils. Analyzed pressure, velocity, and streamline fields and compared PINN predictions with a potential-flow model implemented in MATLAB.
 
+[View project repository](https://github.com/mreza-sotoudeh/Flow-Around-Airfoil-Classical-Methods-CFD-Physics-Informed-Neural-Networks)
 ### Machine Design II: Bearings and Power Transmission Systems
 
 Completed a series of mechanical design projects involving hydrodynamic journal bearings, rolling-bearing selection, bearing housing design, flexible power transmission, and gear and gearbox design. Performed load and strength calculations, component selection, safety-factor evaluation, and technical comparisons of alternative designs.
 
+[View project repository](https://github.com/mreza-sotoudeh/gearbox-design)
 ### Adjustable Forklift Crane Attachment Design
 
 Collaborated on the design and analysis of an adjustable, demountable crane attachment for a 3-ton forklift. Evaluated stability and structural load cases, designed the boom, bolts, pins, and welded joints, and developed SolidWorks parts, assemblies, and manufacturing drawings.
 
+[View project repository](https://github.com/mreza-sotoudeh/forklift-crane-attachment )
 ### CFD Analysis of Internal Flows Using ANSYS Fluent
 
 Performed CFD simulations of flow through curved ducts, a 30° conical diffuser, and a converging-diverging nozzle using ANSYS Fluent. Conducted mesh-independence studies and analyzed velocity distributions, pressure losses, and flow separation, with MATLAB-based post-processing and comparison with theoretical results.
 
+[View project repository](https://github.com/mreza-sotoudeh/ANSYS-Fluent-Internal-Flow-Analysis)
 ### Physics-Informed Neural Network for Internal Pipe Flow Simulation
 
 Developed a Physics-Informed Neural Network in Python using PyTorch to simulate steady, incompressible, laminar flow inside a cylindrical pipe based on the Navier–Stokes equations. Implemented physical boundary conditions, predicted velocity and pressure fields, and evaluated pressure variation and friction factor.
 
+[View project repository](https://github.com/mreza-sotoudeh/PINNs-for-Internal-Pipe-Flow-Simulation)
 ### Numerical Analysis and Scientific Computing in Python
 
 Implemented numerical methods in Python, including Taylor series, Lagrange and Newton interpolation, natural cubic splines, curve fitting, least-squares regression, and error analysis. Used NumPy and Matplotlib for numerical computation, data analysis, visualization, and performance evaluation.
