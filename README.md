@@ -40,7 +40,6 @@ Mechanical Engineering student at Sharif University of Technology interested in 
 
 Investigated and developed an installation concept for a Digital Readout (DRO) system for a manual milling machine during an industrial internship. Studied magnetic linear encoders, analyzed system specifications and measurement accuracy, performed dimensional measurements, and developed the installation concept using SolidWorks.
 
- 
 [View project repository](https://github.com/mreza-sotoudeh/DRO-installation-for-milling-machine)
 ### FEA of Perforated Cylindrical Filter Screens
 
